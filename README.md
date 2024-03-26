@@ -15,4 +15,4 @@ This repository contains code for transforming mental health data to the require
 - transformers==4.39.1
 - peft==0.10.0
 
-You can refer prebuild model upto 17 epoch at following drive : "https://drive.google.com/drive/folders/1MDt7fsT7wjkk1s3t9dEBsZGJydzSMBUV?usp=drive_link"
+You can refer prebuild model upto 17 epoch at following drive : https://drive.google.com/drive/folders/1MDt7fsT7wjkk1s3t9dEBsZGJydzSMBUV?usp=sharing
