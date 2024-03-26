@@ -15,4 +15,11 @@ This repository contains code for transforming mental health data to the require
 - transformers==4.39.1
 - peft==0.10.0
 
-You can refer prebuild model upto 17 epoch at following drive : https://drive.google.com/drive/folders/1MDt7fsT7wjkk1s3t9dEBsZGJydzSMBUV?usp=sharing
+## Huggin Face uploaded Model Link: 
+- https://huggingface.co/MeetX/Mistral-7b-psychology-finetune
+- https://huggingface.co/MeetX/Mistral7b-mentalhealth-finetune
+
+You can refer prebuild model upto 17 epoch at following drive : - For mental health specific: https://drive.google.com/drive/folders/1MDt7fsT7wjkk1s3t9dEBsZGJydzSMBUV?usp=sharing
+- For Psychology specific: 
+
+Link to colab for code found at: https://colab.research.google.com/drive/1XtXKJ0AjVmKcCdLVGUbniTEYMA4r1U9e?usp=sharing  
